@@ -1,0 +1,15 @@
+<RCC>
+	<qresource prefix="/">
+		<file>img/application-exit.png</file>
+		<file>img/app_48x48.png</file>
+		<file>img/app_32x32.png</file>
+		<file>img/app_22x22.png</file>
+		<file>img/app_16x16.png</file>
+		<file>img/dialog-cancel.png</file>
+		<file>img/code-function.png</file>
+		<file>img/arrow-right.png</file>
+		<file>img/code-variable.png</file>
+		<file>img/code-function_22x22.png</file>
+		<file>img/code-variable_22x22.png</file>
+	</qresource>
+</RCC>
