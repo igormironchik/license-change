@@ -24,5 +24,5 @@ add_dependencies(test.utils utils)
 target_link_libraries(test.utils utils Qt6::Widgets Qt6::Gui Qt6::Test Qt6::Core)
 
 add_test(NAME test.utils
-	COMMAND ${CMAKE_CURRENT_BINARY_DIR}/test.utils
-    WORKING_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR})
+    COMMAND ${CMAKE_CURRENT_BINARY_DIR}/../../../bin/test.utils
+    WORKING_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/../../../bin)
