@@ -166,10 +166,10 @@ public:
         , m_cancel(new QToolButton(this))
     {
         m_cancel->setIcon(QIcon(":/img/dialog-cancel.png"));
-
         m_progress->setMinimum(0);
 
         QHBoxLayout *l = new QHBoxLayout(this);
+        l->setContentsMargins(0, 0, 0, 0);
 
         l->addWidget(m_progress);
         l->addWidget(m_cancel);
