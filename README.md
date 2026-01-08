@@ -12,7 +12,7 @@ replace every occurrence of a license in a file.
 files with comfortable detailed information about unprocessed files.
 * User can specify a wildcard for file extensions for processing.
 * User can select folders for processing directly in the UI (thanks to Andre Somers
-<andre@familiesomers.nl>) with his `CheckableProxyModel`.
+andre@familiesomers.nl) with his `CheckableProxyModel`.
 * With processing a large set of files user will see a progress bar with progress and he
 can at any moment to abort this process in status bar.
 
