@@ -14,6 +14,6 @@ files with comfortable detailed information about unprocessed files.
 * User can select folders for processing directly in the UI (thanks to Andre Somers
 andre@familiesomers.nl) with his `CheckableProxyModel`.
 * With processing a large set of files user will see a progress bar with progress and he
-can at any moment to abort this process in status bar.
+can abort this process in status bar at any moment.
 
 ![LicenseChange](./doc/licensechange.png)
