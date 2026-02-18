@@ -17,3 +17,5 @@ andre@familiesomers.nl) with his `CheckableProxyModel`.
 can abort this process in status bar at any moment.
 
 ![LicenseChange](./doc/licensechange.png)
+
+![ResultDialog](./doc/result.png)
